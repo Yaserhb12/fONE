@@ -13,13 +13,13 @@ const users = [
         "username": "jana khalaily",
         "email": "jana@gmail.com",
         "phone": "050-8531114",
-        "photo": "images/idfe.png"
+        "photo": "images/idme.png"
     },
     {
         "username": "Also bondeg",
         "email": "also@gmail.com",
         "phone": "050-1234567",
-        "photo": "images/idfe.png"
+        "photo": "images/idme.png"
     },
     {
         "username": "Christian Levi",
